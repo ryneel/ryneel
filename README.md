@@ -58,11 +58,11 @@ I'm a young and ambitious developer from Turkey, focused on building scalable we
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=ryneel&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=4FC3F7&title_color=4FC3F7" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ryneldev&theme=github-dark-blue&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ryneel&theme=github-dark-blue&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryneldev&layout=compact&theme=github_dark&hide_border=true&title_color=4FC3F7" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryneel&layout=compact&theme=github_dark&hide_border=true&title_color=4FC3F7" />
 </p>
 
 ---
@@ -70,7 +70,7 @@ I'm a young and ambitious developer from Turkey, focused on building scalable we
 ### Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryneldev&theme=flat&no-bg=true&no-frame=true&margin-w=8&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ryneel&theme=flat&no-bg=true&no-frame=true&margin-w=8&column=7" />
 </p>
 
 ---
@@ -84,5 +84,5 @@ I'm a young and ambitious developer from Turkey, focused on building scalable we
 ---
 
 <p align="center">
-  <sub>Rynel · <a href="https://ryneldev.com">ryneldev.com</a> · Building with purpose.</sub>
+  <sub>Rynel · <a href="https://rynel.org">rynel.org</a> · Building with purpose.</sub>
 </p>
