@@ -57,7 +57,7 @@ I'm a young and ambitious developer from Turkey, focused on building scalable we
 ### GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ryneldev&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=4FC3F7&title_color=4FC3F7" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ryneel&show_icons=true&theme=github_dark&hide_border=true&count_private=true&icon_color=4FC3F7&title_color=4FC3F7" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=ryneldev&theme=github-dark-blue&hide_border=true&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" />
 </p>
 
