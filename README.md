@@ -11,8 +11,8 @@
 </p>
 
 <p align="center">
-  <a href="https://hizliresim.com/h7wpfhd"><img src="https://img.shields.io/badge/GitHub-ryneldev-181717?style=flat-square&logo=github" /></a>
-  <a href="mailto:me@ryneldev.com"><img src="https://img.shields.io/badge/Email-me@ryneldev.com-4FC3F7?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/ryneel"><img src="https://img.shields.io/badge/GitHub-ryneldev-181717?style=flat-square&logo=github" /></a>
+  <a href="mailto:contact@rynel.org"><img src="https://img.shields.io/badge/Email-contact@rynel.org-4FC3F7?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.com/users/1138630972854763611"><img src="https://img.shields.io/badge/Discord-Rynel-5865F2?style=flat-square&logo=discord&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=ryneldev&color=4FC3F7&style=flat-square&label=Profile+Views" />
 </p>
