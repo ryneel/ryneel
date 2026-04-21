@@ -23,7 +23,7 @@
 
 I'm a young and ambitious developer from Turkey, focused on building scalable web applications and intelligent automation systems. I care deeply about clean architecture, developer experience, and shipping things that actually work.
 
-- 🔭 Currently building **[socialstore.com.tr](https://socialstore.com.tr)**
+- 🔭 Currently building **[rynel.org](https://rynel.org)**
 - ⚙️ Interested in **backend systems, AI pipelines, and workflow automation**
 - 📐 Focused on writing code that is **readable, maintainable, and efficient**
 - 🧠 Always learning — currently deep-diving into **LLM integrations & serverless infrastructure**
