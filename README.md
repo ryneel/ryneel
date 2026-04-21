@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://hizliresim.com/h7wpfhd" width="110" style="border-radius:50%;border:3px solid #4FC3F7;" alt="Rynel" />
+  <img src="https://i.hizliresim.com/h7wpfhd.jpg" width="110" style="border-radius:50%;border:3px solid #4FC3F7;" alt="Rynel" />
 </p>
 
 <p align="center">
