@@ -67,14 +67,6 @@ I'm a young and ambitious developer from Turkey, focused on building scalable we
 
 ---
 
-### Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ryneel&theme=flat&no-bg=true&no-frame=true&margin-w=8&column=7" />
-</p>
-
----
-
 ### Contribution
 
 <p align="center">
